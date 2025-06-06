@@ -6,7 +6,7 @@ This Power BI project analyzes the sales data of a company for the years **2013 
 
 ### 📸 Dashboard Preview
 
-[![Sales Dashboard](https://github.com/your-username/your-repo-name/blob/main/Screenshot_5-6-2025_215320_app.powerbi.com.jpeg?raw=true)](https://app.powerbi.com/groups/me/reports/85ca78da-d4c9-492b-9064-60601ee4b095/490d54957112288ccc4a?experience=power-bi)
+[![Sales Dashboard](https://github.com/abhishekyadavab/abhishekyadavab/blob/main/Screenshot_5-6-2025_215320_app.powerbi.com.jpeg?raw=true)](https://app.powerbi.com/groups/me/reports/85ca78da-d4c9-492b-9064-60601ee4b095/490d54957112288ccc4a?experience=power-bi)
 
 > 🔗 Click the image to view the interactive dashboard on Power BI Service.
 
@@ -78,6 +78,3 @@ I'm **Abhishek Kumar Yadav**, a Business Analytics graduate from Humber College 
 
 📧 abhishekyadav23122002@gmail.com  
 🔗 [LinkedIn – Abhishek Kumar Yadav](https://www.linkedin.com/in/abhishek-yadav-52b346201)
-
----
-
