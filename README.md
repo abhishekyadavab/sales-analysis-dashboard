@@ -10,6 +10,10 @@ This Power BI project analyzes the sales data of a company for the years **2013 
 
 > 🔗 Click the image to view the interactive dashboard on Power BI Service.
 
+
+### 🖼️ **Output**:
+
+- ![Dashboard Output](Screenshot_5-6-2025_215320_app.powerbi.com.jpeg)
 ---
 
 ## 📊 Dashboard Overview
